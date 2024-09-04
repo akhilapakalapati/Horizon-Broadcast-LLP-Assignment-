@@ -95,7 +95,4 @@ horizon-broadcast/
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue in the [GitHub repository](https://github.com/your-username/horizon-broadcast).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
